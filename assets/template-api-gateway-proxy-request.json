@@ -1,0 +1,9 @@
+{
+   "requestContext":{
+      "routeKey":"$connect/$disconnect/...",
+      "stage":"develop",
+      "domainName":"ID.execute-api.us-east-2.amazonaws.com",
+      "connectionId":"XYZID"
+   },
+   "body": "{ \"key\": \"value\" }"
+}
