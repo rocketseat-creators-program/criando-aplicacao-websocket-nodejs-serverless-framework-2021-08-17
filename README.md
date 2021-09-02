@@ -11,6 +11,6 @@ Nesta aula, iremos criar uma aplicação websocket, onde veremos sobre o serverl
 
 | [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/ismaelash) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                             [Ismael Ash](https://github.com/marcostaborda)                                                             |
+|                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
 TAGS: Websocket, AWS, Nodejs, Serverless Framework, AWS Api Gateway
